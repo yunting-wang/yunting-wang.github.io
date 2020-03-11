@@ -1,23 +1,32 @@
 # ----------- CONFIGURABLE START -----------
-title:            "Scribble"
-description:      "Such theme, very cool."
+title:            "Yunting Wang"
+description:      "description"
 url:              http://yunting-wang.github.io # Site url, without a slash at the end.
-baseurl:          ""
-signoff:          "muan" # Your name
+signoff:          "Yunting Wang" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
 
 links:
-  - name:         Posts
+  - name:         Home
     url:          /
     external:     false
-  - name:         About me
-    url:          /about
+  - name:         Research
+    url:          /Research_Summary.pdf
+    external:     true
+  - name:         CV
+    url:          /CV_Yunting_Wang_XMU.pdf
     external:     false
+  - name:         Blog
+    url:          /blog.html
+    external:     false
+  - name:         Miscellaneous
+    url:          /miscellaneous
+    external:     false
+    
 # ------------ CONFIGURABLE END ------------
 
-permalink:        /posts/:title
+permalink:        /blog/:title
 defaults:
   - values:
       layout: "default"
