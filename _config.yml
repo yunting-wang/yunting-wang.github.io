@@ -2,7 +2,6 @@
 title:            "Yunting Wang"
 description:      "description"
 url:              # Site url, without a slash at the end.
-baseurl:          http://yunting-wang.github.io
 signoff:          "Yunting Wang" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
