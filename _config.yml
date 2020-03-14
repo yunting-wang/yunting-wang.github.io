@@ -20,7 +20,7 @@ links:
   - name:         Blog
     url:          /blog.html
     external:     false
-  - name:         Miscellaneous
+  - name:         Misc.
     url:          /miscellaneous
     external:     false
     
