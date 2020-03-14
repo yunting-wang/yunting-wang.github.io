@@ -1,7 +1,7 @@
 # ----------- CONFIGURABLE START -----------
 title:            "Yunting Wang"
 description:      "description"
-url:              yunting-wang.github.io # Site url, without a slash at the end.
+url:              http://yunting-wang.github.io # Site url, without a slash at the end.
 baseurl:          yunting-wang.github.io
 signoff:          "Yunting Wang" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
