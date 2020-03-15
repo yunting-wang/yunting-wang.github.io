@@ -30,3 +30,5 @@ permalink:        /blog/:title
 defaults:
   - values:
       layout: "default"
+googleAnaly:
+  config: false
