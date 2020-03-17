@@ -23,6 +23,8 @@ links:
   - name:         Misc.
     url:          /miscellaneous
     external:     false
+  - url:          /assignment.pdf
+    external:     false
     
 # ------------ CONFIGURABLE END ------------
 
