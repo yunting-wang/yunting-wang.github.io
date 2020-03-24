@@ -17,9 +17,6 @@ links:
   - name:         CV
     url:          /CV_Yunting_Wang_XMU.pdf
     external:     false
-  - name:         Blog
-    url:          /blog.html
-    external:     false
   - name:         Misc.
     url:          /miscellaneous
     external:     false
@@ -27,6 +24,9 @@ links:
     external:     false
   - url:          /assignment2.pdf
     external:     false
+  #- name:         Blog
+    #url:          /blog.html
+    #external:     false
     
 # ------------ CONFIGURABLE END ------------
 
