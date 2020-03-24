@@ -26,25 +26,33 @@
       </nav>
 
       <main class="tl f6 relative pa4 pa5-ns overflow-hidden">
-        {% if page.title %}
-          <div class="mb4">
-            {% if page.date %}<div class="fw600 light-silver mt1">{{ page.date | date_to_string }}</div>{% endif %}
-            <h1 class="ttu f3 mt0 lh-title cb mb2">
-              {% if is_post %}
-              {% endif %}
-              {{ page.title }}
-            </h1>
-          </div>
+        <!--这部分控制post开头title：XX显示在页首-->
+        <!--把原来的代码嵌套进了{% if is_post %}{% endif %}-->
+        {% if is_post %}
+          {% if page.title %}
+            <div class="mb4">
+              {% if page.date %}<div class="fw600 light-silver mt1">{{ page.date | date_to_string }}</div>{% endif %}
+              <h1 class="ttu f3 mt0 lh-title cb mb2">
+                {% if is_post %}
+                {% endif %}
+                {{ page.title }}
+              </h1>
+            </div>
+          {% endif %}
         {% endif %}
         <div class="markdown-body">
           {{ content }}
         </div>
+        <!--
         {% if is_post %}{% include signoff.html %}{% endif %}
+      -->
       </main>
       {% if is_post %}{% include pagination.html %}{% endif %}
     </div>
     <footer class="mw7 center tc pt3 pb4 silver">
       Contact: <a href="mailto:wangyunting@stu.xmu.edu.cn" class="link silver hover-blue pv1">wangyunting@stu.xmu.edu.cn</a>
+      <br>
+      Built with Jekyll using <a href="https://github.com/muan/scribble" class="link silver hover-blue pv1">Scribble</a>
       <img src="{{ site.url }}/images/scribble2.png" alt="scribble" class="mt4 db center" />
     </footer>
   </body>

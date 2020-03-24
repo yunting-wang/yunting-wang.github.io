@@ -1,6 +1,8 @@
 ---
-title: About me
+title: Home
 ---
+
+## ABOUT ME
 
 I am Yunting Wang(王允婷), a third-year undergraduate student at [Department of Astronomy, Xiamen University](https://astro.xmu.edu.cn/en/HOME.htm).
 
