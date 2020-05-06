@@ -20,9 +20,7 @@ links:
   - name:         Misc.
     url:          /miscellaneous
     external:     false
-  - url:          /assignment3.pdf
-    external:     false
-  - url:          /assignment2.pdf
+  - url:          /assignment.pdf
     external:     false
   #- name:         Blog
     #url:          /blog.html
