@@ -12,15 +12,13 @@ links:
     url:          /
     external:     false
   - name:         Research
-    url:          /Research_Summary.pdf
+    url:          /research
     external:     true
   - name:         CV
     url:          /CV_Yunting_Wang_XMU.pdf
     external:     false
   - name:         Misc.
     url:          /miscellaneous
-    external:     false
-  - url:          /assignment.pdf
     external:     false
   #- name:         Blog
     #url:          /blog.html
