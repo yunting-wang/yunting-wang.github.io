@@ -30,4 +30,4 @@ We obtain the mosaicked VLT MUSE (Multi Unit Spectroscopic Explorer) data cube f
 
 In addition, we derived modeled spectra given the delayed star formation history model plus a recent burst or quenching, using the CIGALE (Code Investigating GALaxy Emission) SED (Stellar Energy Distribution) code, and compare the evolution tracks with the observation data.
 
-We also extend our study on other nearby galaxies with different SFR and stellar mass, such as NGC5068, NGC2835 and NGC1365.
+We also extend our study on other nearby galaxies with different SFR and stellar mass properties, such as NGC5068, NGC2835 and NGC1365.
