@@ -23,6 +23,8 @@ links:
   #- name:         Blog
     #url:          /blog.html
     #external:     false
+  - url:          /Transcript_Yunting_Wang.pdf
+    external:     false
     
 # ------------ CONFIGURABLE END ------------
 
