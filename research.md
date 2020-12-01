@@ -4,7 +4,7 @@ title: Research
 
 ## Exploring Transitional Galaxies Indicated by [NII]/[SII] ratios
 
-#### *Advisor: [Prof. Lei Hao](http://sourcedb.shao.cas.cn/yw/pl/fs/201012/t20101218_3046501.html) (Shanghai Astronomical Observatory, Chinese Academy of Sciences) \& [Prof. Taotao Fang](https://astro.xmu.edu.cn/info/1074/1848.htm) (Xiamen University)*
+#### *Advisor: [Prof. Lei Hao](http://sourcedb.shao.cas.cn/yw/pl/fs/201012/t20101218_3046501.html) (Shanghai Astronomical Observatory, Chinese Academy of Sciences) & [Prof. Taotao Fang](https://astro.xmu.edu.cn/info/1074/1848.htm) (Xiamen University)*
 
 Previous works on FUV-luminous galaxies have found unusually high-[NII]/[SII]-ratio galaxies also show compact nature, strong outflows, and vigorous star formations (Overzier et al., 2009). Such galaxies also exhibit particular MIR spectral features, including the crystallized silicate features (Xie et al., 2014, 2015, 2016). These characteristics indicate that these galaxies may exist in a transitional stage where galaxy mergers have induced intensive nuclear starbursts, as suggested from numerical simulations (Hopkins et al., 2008).
 
