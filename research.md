@@ -17,10 +17,12 @@ Star formation is crucial in understanding galaxy evolution. Using MUSE spatiall
 
 We study the change in Star Formation Rate with respect to the three scaling relations between each pair in stellar mass surface density (&Sigma;<sub>\*</sub>), molecular gas mass surface density (&Sigma;<sub>gas</sub>) and Star Formation Rate (SFR) surface density (&Sigma;<sub>SFR</sub>). Comparing with the CO(2-1) observation from ALMA, we highlight the correlation between the molecular gas component and deviation in SFR (&Delta;SFR) from the resolved Star Forming Main Sequence (&Sigma;<sub>\*</sub> - &Sigma;<sub>SFR</sub>).
 
+<figure>
 <p align="center">
 <img src="https://yunting-wang.github.io/images/dsfr.png" width="90%">
 <figcaption><span style="color:grey"> The &Delta;SFR map of overlaid with the contour of CO(2-1) intensity from ALMA blurred to a resolution of FWHM∼6''. The grey area are the pixels masked in MUSE data cube due to additional noisy features. </span></figcaption>
 </p>
+</figure>
 
 Our results indicate that the gravitational interactions between galaxies and the cluster environment can have an progressive impact on star formation in different regions on different time scales, and that the burst or quenching in NGC4254 may be motivated by the fraction of the molecular gas component.
 
