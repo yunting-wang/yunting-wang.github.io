@@ -10,7 +10,7 @@ Star formation is crucial in understanding galaxy evolution. Using MUSE spatiall
 
 <figure>
 <p align="center">
-<img src="https://yunting-wang.github.io/images/ha-fuv.png" width="80%">
+<img src="https://yunting-wang.github.io/images/ha-fuv.png" width="90%">
 <figcaption><span style="color:grey">The H&alpha;-FUV color map of NGC4254, calculated following the equation (3) in Boselli et al. (2018). The pixels with color index larger than 2.4 are colored in white. The black contour of CO intensity map from ALMA blurred to the same resolution is overlaid for the same region. </span></figcaption>
 </p>
 </figure>
