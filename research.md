@@ -19,11 +19,9 @@ We study the change in Star Formation Rate with respect to the three scaling rel
 
 <figure>
 <p align="center">
-  <img src="https://yunting-wang.github.io/images/dsfr.png" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://yunting-wang.github.io/images/corr_fh2.png" width="45%">
+<img src="https://yunting-wang.github.io/images/dsfr.png" width="90%">
+<figcaption><span style="color:grey"> The &Delta;SFR map of overlaid with the contour of CO(2-1) intensity from ALMA blurred to a resolution of FWHM∼6''. The grey area are the pixels masked in MUSE data cube due to additional noisy features. </span></figcaption>
 </p>
-<figcaption><span style="color:grey"><b>Left:</b> The &Delta;SFR map of overlaid with the contour of CO(2-1) intensity from ALMA blurred to a resolution of FWHM∼6''. The grey area are the pixels masked in MUSE data cube due to additional noisy features. <b>Right:</b> A linear fit between f<sub>H<sub>2</sub></sub> and the deviation from SFMS for all spaxels. </span></figcaption>
 </figure>
 
 Our results indicate that the gravitational interactions between galaxies and the cluster environment can have an progressive impact on star formation in different regions on different time scales, and that the burst or quenching in NGC4254 may be motivated by the fraction of the molecular gas component.
